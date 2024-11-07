@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Kavya Sriram
-kasriram@ucsd.edu
+Kavya Sriram and Catherine Back
